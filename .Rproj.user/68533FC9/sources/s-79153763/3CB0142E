@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556833316183.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3CB0142E",
+    "lastKnownWriteTime" : 1556833348,
+    "last_content_update" : 1556833348853,
+    "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial/R/bin_choose.R",
+    "project_path" : "R/bin_choose.R",
+    "properties" : {
+        "cursorPosition" : "55,0",
+        "scrollLine" : "33",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
