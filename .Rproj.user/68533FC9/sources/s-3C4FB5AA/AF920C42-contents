@@ -68,6 +68,6 @@ check_success <- function(success, trials){
 
 #' @export
 plot.bincum <- function(x, ...) {
-  lines(x$success, x$cumulative, type = "o", xlab = "successes", ylab = "probability")
+  plot(x$success, x$cumulative, type = "o", xlab = "successes", ylab = "probability")
 }
 

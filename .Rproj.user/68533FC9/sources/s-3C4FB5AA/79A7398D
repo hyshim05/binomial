@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556874212653.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "79A7398D",
+    "lastKnownWriteTime" : 1556875468,
+    "last_content_update" : 1556875468016,
+    "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial/testthat/testthat/test_checker_functions.R",
+    "project_path" : "testthat/testthat/test_checker_functions.R",
+    "properties" : {
+        "cursorPosition" : "9,36",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
