@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "622325715",
     "id" : "E2ABF739",
-    "lastKnownWriteTime" : 1556875900,
-    "last_content_update" : 1556875900931,
+    "lastKnownWriteTime" : 1556923926,
+    "last_content_update" : 1556923926072,
     "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial/testthat/testthat/test_bin_probability.R",
     "project_path" : "testthat/testthat/test_bin_probability.R",
     "properties" : {
-        "cursorPosition" : "11,2",
+        "cursorPosition" : "0,16",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },

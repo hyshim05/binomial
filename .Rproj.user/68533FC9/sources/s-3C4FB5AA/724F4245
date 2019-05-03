@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1750495569",
     "id" : "724F4245",
-    "lastKnownWriteTime" : 1556833452,
-    "last_content_update" : 1556833452746,
+    "lastKnownWriteTime" : 1556924118,
+    "last_content_update" : 1556924118373,
     "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial/testthat/testthat.R",
     "project_path" : "testthat/testthat.R",
     "properties" : {
-        "cursorPosition" : "4,0",
+        "cursorPosition" : "2,0",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556924040534.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8C6CC7E7",
+    "lastKnownWriteTime" : 1556924098,
+    "last_content_update" : 1556924098975,
+    "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial/R/PrivateAuxFunctions.R",
+    "project_path" : "R/PrivateAuxFunctions.R",
+    "properties" : {
+        "cursorPosition" : "9,39",
+        "scrollLine" : "18",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
