@@ -1,4 +1,6 @@
 source("C:/Users/hyshim05/Desktop/hw-stat133/binomial/R/bin_choose.R")
+library(testthat)
+library(binomial)
 
 context("test for checker functions")
 
