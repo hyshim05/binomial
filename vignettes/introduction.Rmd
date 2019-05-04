@@ -2,7 +2,7 @@
 title: "Getting Started with binomial"
 author: "Hyungil Shim"
 date: "May 3, 2019"
-output: rmarkdown::html_document
+output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Introduction to binomial}
   %\VignetteEngine{knitr::rmarkdown}
