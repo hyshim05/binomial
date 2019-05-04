@@ -1,0 +1,71 @@
+---
+title: "Getting Started with binomial"
+author: "Hyungil Shim"
+date: "May 3, 2019"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to binomial}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, echo = FALSE, message = FALSE}
+knitr::opts_chunk$set(collapse = T, comment = "#>")
+library(binomial)
+```
+
+# Binomial
+
+The package `binomial` allows the user to explore the binomial distribution model through functions and plots that help contextualize and visualize a binomial random variable.
+
+# Creating a `binvar`
+
+Start off by creating a binomial random variable with class `binvar` with the `bin_variable()` function
+
+```{r}
+bin1 <- bin_variable(trials = 10, prob = 0.5)
+bin1
+
+class(bin1)
+```
+As you can see, we have created an object `bin1` with class `binvar`
+
+# Using `summary` on `binvar` objects
+
+You can use the summary function to view important data points for a given `binvar` object
+```{r}
+summary(bin1)
+```
+You can use other main functions to calculate individual data points
+```{r}
+# mean
+bin_mean(trials = 10, prob = 0.5)
+
+# variance
+bin_variance(trials = 10, prob = 0.5)
+
+# mode
+bin_mode(trials = 10, prob = 0.5)
+
+# skewness
+bin_skewness(trials = 10, prob = 0.5)
+
+# kurtosis
+bin_kurtosis(trials = 10, prob = 0.5)
+```
+
+# Data Visualization
+There are two main way of visualizing the binomial distribution with this package: plotting with `bin_distribution` or `bin_cumulative`
+
+`bin_distribution` finds the probabilities of each additional success into an object `bindis`. You can then plot this object.
+
+`bin_cumulative` is similar to `bin_distribution`, but it includes another column that adds up each probability in to an object `bincum`. You can then plot this object.
+```{r}
+dis1 <- bin_distribution(trials = 10, prob = 0.5)
+dis1
+plot(dis1)
+
+cum1 <- bin_cumulative(trials = 10, prob = 0.5)
+cum1
+plot(cum1)
+```

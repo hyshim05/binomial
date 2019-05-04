@@ -1,6 +1,10 @@
 {
-    "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial/man",
+    "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial",
     "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 1
+        },
         {
             "ascending" : true,
             "columnIndex" : 2

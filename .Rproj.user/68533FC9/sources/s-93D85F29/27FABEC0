@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1556930000806.000,
+    "created" : 1556930632282.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "2813FB01",
-    "lastKnownWriteTime" : 1556930100,
-    "last_content_update" : 1556930100101,
+    "hash" : "3018918229",
+    "id" : "27FABEC0",
+    "lastKnownWriteTime" : 1556930638,
+    "last_content_update" : 1556930638601,
     "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial/DESCRIPTION",
     "project_path" : "DESCRIPTION",
     "properties" : {
-        "cursorPosition" : "10,0",
+        "cursorPosition" : "6,37",
         "scrollLine" : "0"
     },
-    "relative_order" : 7,
+    "relative_order" : 8,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "dcf"

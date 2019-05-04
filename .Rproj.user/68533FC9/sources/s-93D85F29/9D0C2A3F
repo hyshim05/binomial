@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556930557618.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9D0C2A3F",
+    "lastKnownWriteTime" : 1556930569,
+    "last_content_update" : 1556930569220,
+    "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial/vignettes/introduction.Rmd",
+    "project_path" : "vignettes/introduction.Rmd",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
