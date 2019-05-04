@@ -1,20 +1,20 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1556833301124.000,
+    "created" : 1556929274079.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2168537217",
-    "id" : "CCE5C6FE",
+    "hash" : "3093437535",
+    "id" : "B4900100",
     "lastKnownWriteTime" : 1556833296,
     "last_content_update" : 1556833296,
-    "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial/R/hello.R",
-    "project_path" : "R/hello.R",
+    "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial/man/hello.Rd",
+    "project_path" : "man/hello.Rd",
     "properties" : {
     },
-    "relative_order" : 1,
+    "relative_order" : 6,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "r_source"
+    "type" : "r_doc"
 }

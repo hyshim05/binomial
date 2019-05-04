@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556924366483.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8BCD388A",
+    "lastKnownWriteTime" : 1556924620,
+    "last_content_update" : 1556924620946,
+    "path" : "C:/Users/hyshim05/Desktop/hw-stat133/binomial/R/MainBinFunctions.R",
+    "project_path" : "R/MainBinFunctions.R",
+    "properties" : {
+        "cursorPosition" : "116,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
